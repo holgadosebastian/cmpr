@@ -16,5 +16,6 @@
     "eject": "react-scripts eject",
     "scss": "sass --watch src/styles:src/styles",
     "deploy": "git subtree push --prefix build origin gh-pages"
-  }
+  },
+  "homepage": "."
 }
