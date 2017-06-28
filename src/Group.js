@@ -1,6 +1,5 @@
 import React from 'react';
 import Cluster from './Cluster';
-import './Group.css';
 
 class Group extends React.Component {
 	render(){

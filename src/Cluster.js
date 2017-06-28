@@ -1,5 +1,4 @@
 import React from 'react';
-import './Cluster.css';
 
 class Cluster extends React.Component {
 	render(){
