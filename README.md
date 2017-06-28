@@ -1,5 +1,5 @@
 ![cmpr](https://user-images.githubusercontent.com/9201634/27617409-8316a806-5b8c-11e7-9545-a968a97acb18.jpg)
-> Get random challenges to take photographs
+> Make a wishlist and compare items
 
 
 ## Available Scripts
